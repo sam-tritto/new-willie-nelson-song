@@ -1,5 +1,5 @@
 # new-willie-nelson-song
-Generating a NEW Willie Nelson Song using textgenrnn and with Willie Nelson Song Lyrics from the Genius API. 
+Generating a NEW Willie Nelson Song using textgenrnn / spaCy and with Willie Nelson Song Lyrics from the Genius API. 
 
 
 ![Image description](https://github.com/sam-brady/new-willie-nelson-song/blob/master/images/Screen%20Shot%202020-04-25%20at%206.43.11%20PM.png)
